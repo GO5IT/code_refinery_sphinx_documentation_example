@@ -10,5 +10,8 @@ Welcome to Example's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   some-feature.md
-   another-feature.md
+   .. list md files below (best practice is to create a source folder and put all files inside, and specify them below like source/index.md)
+
+   source/some-feature.md
+   source/another-feature.md
+   source/api.md
