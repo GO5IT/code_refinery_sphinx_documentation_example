@@ -1,6 +1,10 @@
 # Configuration file for the Sphinx documentation builder.
-#
-# For exercise from Coderefinery: https://coderefinery.github.io/documentation/sphinx/
+
+# For exercise tutorial from Coderefinery: https://coderefinery.github.io/documentation/sphinx/
+# For exercise GitHubAction to deploy the documentation automatically, when a new Git commit is made
+# https://coderefinery.github.io/documentation/gh_workflow/#exercise-deploy-sphinx-documentation-to-github-pages
+# This will generate HTML documentation page here: https://go5it.github.io/code_refinery_sphinx_documentation_example/
+
 
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
